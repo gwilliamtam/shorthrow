@@ -1,0 +1,40 @@
+.content-type-icon{
+    float: right;
+}
+
+.box-card{
+    height: 150px;
+}
+
+.box-card .card-footer{
+    padding: 0;
+}
+
+.group-tabs{
+    margin-bottom: 15px;
+}
+
+/*.group-tabs .nav-tabs{*/
+    /*overflow-x: auto;*/
+    /*scrollbar: none;*/
+    /*overflow-y: hidden;*/
+    /*display: -webkit-box;*/
+    /*display: -moz-box;*/
+/*}*/
+
+/*.group-tabs .nav-tabs>li{*/
+    /*float: none;*/
+/*}*/
+
+.group-selector .form-group{
+    margin-bottom: 0;
+}
+
+.expires-at{
+    margin: 5px;
+}
+
+#pasted-image{
+    height: 100px;
+    width: auto;
+}
